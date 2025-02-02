@@ -9,7 +9,6 @@
 -----------------------------
 
 -link para o vídeo com a demonstração de funcionamento: https://youtu.be/Yon86twp5ZI
--link do repositório: https://github.com/matuxneo/matriz-rgb
 
 ## Descrição do Projeto
 
