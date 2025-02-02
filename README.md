@@ -72,6 +72,8 @@ Este programa controla uma matriz de LEDs WS2812B (Neopixel) conectada ao Raspbe
   - Aparece pessoalmente demonstrando o funcionamento do projeto.
   - Explica brevemente as funcionalidades implementadas.
   - Mostra o projeto em execução na placa BitDogLab.
+ 
+  - Link para o vídeos: https://youtu.be/Yon86twp5ZI
 
 ---
 
