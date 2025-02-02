@@ -1,6 +1,5 @@
 # Controle de Matriz de LEDs WS2812B (Neopixel) com Raspberry Pi Pico
 
-/*  
 -----------------------------
 **Autor:** Matuzalem Guimaraes Leal  
 **E-mail:** matuinfo@gmail.com  
@@ -8,7 +7,7 @@
 **Curso:** EmbarcaTech 2025  
 **Revisão:** v1.0  
 -----------------------------
-*/
+
 -link para o vídeo com a demonstração de funcionamento: https://youtu.be/Yon86twp5ZI
 -link do repositório: https://github.com/matuxneo/matriz-rgb
 
